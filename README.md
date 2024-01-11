@@ -83,10 +83,22 @@ Next scroll down to select the "Image" of Operating System that the VM will run,
 
 **Virtual Machine Configuration Disks.** 
 <p>
-On the "Disks" settings tab, you will choose the size of the "Disk Drive" which will determine the amount of storage on the VM. You can also choose what type of disk drive which will determine the speed at which it accesses the data stored on it. In this case the defaults are set with 127Gb of storage on a SSD (Solid State Drive) disk (a faster option compared to a HDD or Hard Disk Drive).
+On the "Disks" settings tab, you will choose the size of the "Disk Drive" which will determine the amount of storage on the VM. You can also choose what type of disk drive which will determine the speed at which it accesses the data stored on it. In this case the defaults are set with 127Gb of storage on a SSD (Solid State Drive) disk (a faster option compared to a HDD or Hard Disk Drive). After selecting click "Next".
 <p>
 <p> 
 <img src="https://i.imgur.com/IWOvzWr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+<h2>Step 6.</h2> 
+
+**Virtual Machine Configuration Networking.** 
+<p>
+On the "Networking" settings tab we will leave the default settings. Take note that a "Virtual Network", "Subnet" and "Public IP" are automatically created for you here. The rest of the configuration settings will be left on default for this basic tutorial as we have what we need to get the VM up and running. Click "Review + Create" on the bottom left to proceed.
+<p>
+<p> 
+<img src="https://i.imgur.com/JLDKGGk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
