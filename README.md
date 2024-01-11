@@ -164,9 +164,10 @@ A new window will open on your host computer, inside of which is your fully func
 You must keep in mind you are being charged money for using Microsoft Azure's resources. You will continue to be charged while the "Resource Group" you created contains the VM and it's resources inside it. You can choose to delete it at any time to stop these charges from increasing. This is an important step if you are just using the Virtual Machine for a simple project and will not be needing it or it's resources on a long term basis. However, if you are using it as a necessity for business or work, you can leave it and access it remotely at any time.
 <p>
 <p> 
-<img src="https://i.imgur.com/pYLuFgR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/tCVNNDz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/HXFW2d5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0DF3Ddz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O5vzKUt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hLWWEWO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xwZIbu3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
