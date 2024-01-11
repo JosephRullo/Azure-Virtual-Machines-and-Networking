@@ -21,7 +21,7 @@
 - Windows 10 (21H2)
 <br>
 <h2>What is a Virtual Machine?</h2>
-A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises).
+A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). This digital version of a physical computer can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring. 
 <br>
 <h2>Deployment and Configuration Steps</h2>
 <p>
