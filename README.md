@@ -138,7 +138,7 @@ In order to logon to the VM (which is located in Microsoft's cloud sever), we wi
 <p> 
 <img src="https://i.imgur.com/YirLGAc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/9dfLhjl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/HijEsBA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N7Cmz45.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
