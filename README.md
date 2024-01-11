@@ -61,7 +61,19 @@ Now we will setup what type of VM we want to create. You have many options to co
 <p> 
 <img src="https://i.imgur.com/z9jSaKr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/6nKu7mf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/w9t4hfQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+<h2>Step 4.</h2> 
+
+**Virtual Machine Configuration (continued).** 
+<p>
+Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done, too fast and you'll be wasting resources and money since this comes at a premium.
+<p>
+<p> 
+<img src="https://i.imgur.com/XyGF2Ho.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6nKu7mf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
