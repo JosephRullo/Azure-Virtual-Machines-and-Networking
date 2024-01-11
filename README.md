@@ -117,3 +117,27 @@ Now the VM is in the "Validation Process". If there is something incompatible wi
 <p>
 </p>
 <br />
+<h2>Step 8.</h2> 
+
+**Virtual Machine Overview.** 
+<p>
+You will now be brought to the VM Overview page where you can view all the specs of the system as well as make further configuration changes. For now all we will copy is the "Public IP Address" so we can log on to the VM for the first time.
+<p>
+<p> 
+<img src="https://i.imgur.com/Pqm3MrV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+<h2>Step 9.</h2> 
+
+**Remote Client.** 
+<p>
+You will now be brought to the VM Overview page where you can view all the specs of the system as well as make further configuration changes. For now all we will copy is the "Public IP Address" so we can log on to the VM for the first time.
+<p>
+<p> 
+<img src="https://i.imgur.com/Pqm3MrV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
