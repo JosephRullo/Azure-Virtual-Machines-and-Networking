@@ -42,10 +42,24 @@ To begin visit (www.portal.azure.com) -> create an account -> sign in.
   
 **Create Virtual Machine.** 
 <p>
-Once signed in, you will be brought to the Azure homepage. From here, click on the "Virtual Machines" tab at the top of the screen.
+Once signed in, you will be brought to the Azure homepage. From here, click on the "Virtual Machines" tab at the top of the screen -> click "Create" -> select "Azure virtual machine".
 <p>
 <p> 
 <img src="https://i.imgur.com/GpxuA3K.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SeP4Jqo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LMYpPnc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+<h2>Step 3.</h2> 
+  
+**Virtual Machine Configuration.** 
+<p>
+Now we will setup what type of VM we want to create. You have many options to configure, but for this tutorial we will choose a few key componentst and keep many of the defaults. We must begin first by creating a "Resource Group" to store the VM and it's resources inside of.
+<p>
+<p> 
+<img src="https://i.imgur.com/z9jSaKr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SeP4Jqo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/LMYpPnc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
