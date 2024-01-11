@@ -103,3 +103,17 @@ On the "Networking" settings tab we will leave the default settings. Take note t
 <p>
 </p>
 <br />
+<h2>Step 7.</h2> 
+
+**Validation and Deployment.** 
+<p>
+Now the VM is in the "Validation Process". If there is something incompatible with your selections, then an error message will pop up saying that "Validation failed. Required information is missing or not valid." and will point you towards the problematic section(s). Once Validation has passed, you can review the setup you've created and will be able to preview the price for your virtual machine. You can now finalize the creation of the VM and "Deploy" it by clicking the "Create" button on the bottom left of the screen. You can see on the next screen the "Resources" being built as the Deployment is in progress. Once finished click on "Go to resource"
+<p>
+<p> 
+<img src="https://i.imgur.com/pLINIK7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mfbEspq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RCT5kGI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
