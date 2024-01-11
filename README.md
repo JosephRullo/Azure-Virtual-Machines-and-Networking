@@ -172,4 +172,4 @@ You must keep in mind you are being charged money for using Microsoft Azure's re
 <p>
 </p>
 <br />
-<h2>Congratulations!!! All Steps Are Now Complete. Enjoy Using Your Virtual Machine.</h2>
+<h2> <p align="center"> Congratulations!!! All Steps Are Now Complete. Enjoy Using Your Virtual Machine.</h2>
