@@ -69,7 +69,7 @@ Now we will setup what type of VM we want to create. We'll begin in the "Basics"
 
 **Virtual Machine Configuration Basics (continued).** 
 <p>
-Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done with resource demanding applications; too fast a choice and you'll be wasting resources and money since this comes at a premium price.  After selecting, scroll down and assign a "Username" and "Password" (be sure to store them in a secure place in case you forget them).
+Next scroll down to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done with resource demanding applications; too fast a choice and you'll be wasting resources and money since this comes at a premium price.  After selecting, scroll down and assign a "Username" and "Password" (be sure to store them in a secure place in case you forget them). Finally check the box under "Licensing" and click "Next" on the bottom.
 <p>
 <p> 
 <img src="https://i.imgur.com/4GlNFoN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
