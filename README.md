@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/zVU5h9m.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1> <p align="center"> Active Directory Deployed in Microsoft's Cloud Platform (Azure)</h1>
+<h1> <p align="center"> Virtual Machine Creation in Microsoft's Cloud Platform Azure</h1>
 <p align="center"> This tutorial outlines the basics of implementing and deploying a Virtual Machine and gaining access to it with a remote client.<br />
 <br />
 <br />
