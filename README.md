@@ -133,10 +133,12 @@ You will now be brought to the VM Overview page where you can view all the specs
 
 **Remote Client.** 
 <p>
-You will now be brought to the VM Overview page where you can view all the specs of the system as well as make further configuration changes. For now all we will copy is the "Public IP Address" so we can log on to the VM for the first time.
+In order to logon to the VM (which is located in Microsoft's cloud sever), we will need to use a "Remote Client". Since I'm using a Linux operating system, I will download and install "Remmenia Remote Desktop Client" to connect. However, if you are using a Window's or Apple host computer, you would use Microsoft's "Remote Desktop" which is built into Windows and can be downloaded on Mac. After opening your "Remote Client" type the "Public IP Address" for the VM that you copied on the Overview page. Enter the "Username" and "Password" you assigned to it and connect.
 <p>
 <p> 
-<img src="https://i.imgur.com/Pqm3MrV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YirLGAc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9dfLhjl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HijEsBA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
