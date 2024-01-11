@@ -143,3 +143,17 @@ In order to logon to the VM (which is located in Microsoft's cloud sever), we wi
 <p>
 </p>
 <br />
+<h2>Step 10.</h2> 
+
+**Test VM.** 
+<p>
+A new window will open on your host computer, inside of which is your fully functional Virtual Machine running it's own operating system you setup for it. Explore inside of it. Open up the file explorer and note the Drives and Network are just as you set up. If you go on the web browser you can visit (www.whatsmyipaddress.com) where you'll see not your host's IP but the location and IP of the VM. Feel free to use the VM as you would any PC for work or other projects. **Note** you can minimize the "Remote Client" window at any time to return to your "Host" computer. 
+<p>
+<p> 
+<img src="https://i.imgur.com/pYLuFgR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tCVNNDz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HXFW2d5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
