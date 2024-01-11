@@ -54,12 +54,12 @@ Once signed in, you will be brought to the Azure homepage. From here, click on t
 <br />
 <h2>Step 3.</h2> 
   
-**Virtual Machine Configuration.** 
+**Virtual Machine Configuration Basics.** 
 <p>
-Now we will setup what type of VM we want to create. You have many options to configure, but for this tutorial we will choose a few key componentst and keep many of the defaults. We must begin first by creating a "Resource Group" to store the VM and it's resources inside of. Under "Resource Group" click "Create New" and assign it a name. Next, give your VM a name and select the "Region" you would like it to located and function in.
+Now we will setup what type of VM we want to create. We'll begin in the "Basics" tab and choose a few key components leaving the others default. We must begin first by creating a "Resource Group" to store the VM and it's resources inside of. Under "Resource Group" click "Create New" and assign it a name. Next, give your VM a name and select the "Region" you would like it to located and function in.
 <p>
 <p> 
-<img src="https://i.imgur.com/z9jSaKr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5EG11W2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/6nKu7mf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -67,12 +67,28 @@ Now we will setup what type of VM we want to create. You have many options to co
 <br />
 <h2>Step 4.</h2> 
 
+**Virtual Machine Configuration Basics (continued).** 
+<p>
+Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done with resource demanding applications; too fast a choice and you'll be wasting resources and money since this comes at a premium price.  After selecting, scroll down and assign a "Username" and "Password" (be sure to store them in a secure place in case you forget them).
+<p>
+<p> 
+<img src="https://i.imgur.com/4GlNFoN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xAJXroj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uohlSle.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+<h2>Step 5.</h2> 
+
 **Virtual Machine Configuration (continued).** 
 <p>
-Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done, too fast and you'll be wasting resources and money since this comes at a premium. After selecting, click "Next: Disks"
+Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done with resource demanding applications; too fast a choice and you'll be wasting resources and money since this comes at a premium price.
 <p>
 <p> 
 <img src="https://i.imgur.com/XyGF2Ho.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xAJXroj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uohlSle.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
