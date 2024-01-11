@@ -81,14 +81,12 @@ Next scroll down to select the "Image" of Operating System that the VM will run,
 <br />
 <h2>Step 5.</h2> 
 
-**Virtual Machine Configuration (continued).** 
+**Virtual Machine Configuration Disks.** 
 <p>
-Next we will need to select the "Image" of Operating System that the VM will run, in this case Windows 10 is being selected. Now go down to "Size", this choose the speed for the CPU (Central Processing Unit) and the RAM (Random Access Memory) of the VM. Note you'll want to choose the appropriate "Size" for what tasks you'll be performing on the VM. Too slow of a choice and you will have a hard time getting work done with resource demanding applications; too fast a choice and you'll be wasting resources and money since this comes at a premium price.
+On the "Disks" settings tab, you will choose the size of the "Disk Drive" which will determine the amount of storage on the VM. You can also choose what type of disk drive which will determine the speed at which it accesses the data stored on it. In this case the defaults are set with 127Gb of storage on a SSD (Solid State Drive) disk (a faster option compared to a HDD or Hard Disk Drive).
 <p>
 <p> 
-<img src="https://i.imgur.com/XyGF2Ho.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/xAJXroj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uohlSle.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IWOvzWr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
