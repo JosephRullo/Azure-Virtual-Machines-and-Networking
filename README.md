@@ -47,7 +47,7 @@ Once signed in, you will be brought to the Azure homepage. From here, click on t
 <p> 
 <img src="https://i.imgur.com/GpxuA3K.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SeP4Jqo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GpxuA3K.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LMYpPnc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
