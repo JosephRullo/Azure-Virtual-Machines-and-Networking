@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zVU5h9m.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/zVU5h9m.png" height=100% width=100% alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1> <p align="center"> Virtual Machine Creation in Microsoft's Cloud Platform Azure</h1>
