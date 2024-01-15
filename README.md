@@ -83,7 +83,7 @@ Next scroll down to select the "Image" or Operating System that the VM will run,
 
 **Virtual Machine Configuration Disks.** 
 <p>
-On the "Disks" settings tab, you will choose the size of the "Disk Drive" which will determine the amount of storage on the VM. You can also choose what type of disk drive which will determine the speed at which it accesses the data stored on it. In this case the defaults are set with 127Gb of storage on a SSD (Solid State Drive) disk (a faster option compared to a HDD or Hard Disk Drive). After selecting click "Next".
+On the "Disks" settings tab, you will choose the size of the "Disk Drive" which will determine the amount of storage on the VM. You can also choose the type of disk drive, which will determine the speed at which it accesses the data stored on it. In this case the defaults are set with 127Gb of storage on a SSD (Solid State Drive) disk (a faster option compared to a HDD or Hard Disk Drive). After selecting click "Next".
 <p>
 <p> 
 <img src="https://i.imgur.com/IWOvzWr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
