@@ -5,9 +5,6 @@
 <h1> <p align="center"> Virtual Machine Creation in Microsoft's Cloud Platform Azure</h1>
 <p align="center"> This tutorial outlines the basics of implementing and deploying a Virtual Machine and gaining access to it with a remote client.<br />
 <br />
-<br />
-<br />
-
 
 <h2>Environments and Technologies Used</h2>
 
