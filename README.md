@@ -56,7 +56,7 @@ Once signed in, you will be brought to the Azure homepage. From here, click on t
   
 **Virtual Machine Configuration Basics.** 
 <p>
-Now we will setup what type of VM we want to create. We'll begin in the "Basics" tab and choose a few key components, leaving the others default. We must begin first by creating a "Resource Group" to store the VM and it's resources inside of. Under "Resource Group" click "Create New" and assign it a name. Next, give your VM a name and select the "Region" you would like it to be located and function in.
+Now we will configure the type of VM we want to create. We'll begin in the "Basics" tab and choose a few key components, leaving the others default. We must begin first by creating a "Resource Group" to store the VM and it's resources inside of. Under "Resource Group" click "Create New" and assign it a name. Next, give your VM a name and select the "Region" you would like it to be located and function in.
 <p>
 <p> 
 <img src="https://i.imgur.com/5EG11W2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
